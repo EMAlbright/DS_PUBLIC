@@ -1,0 +1,3 @@
+backend/.env
+backend/python-services/router/gemma_processor.py
+backend/python-services/router/pdf_processor.py
